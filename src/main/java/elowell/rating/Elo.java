@@ -1,4 +1,4 @@
-package elowell.utils;
+package elowell.rating;
 
 import elowell.player.Player;
 import lombok.AllArgsConstructor;
